@@ -1,2 +1,6 @@
 node_modules/
+user/libraries/*
+user/plugins/*
+!user/libraries/.exists
+!user/plugins/.exists
 package-lock.json

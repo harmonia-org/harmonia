@@ -1,0 +1,26 @@
+{
+  "name": "enigma",
+  "version": "0.0.1",
+  "description": "Enigma is a Discord client mod that takes a new approach to modding your Discord.",
+  "main": "index.js",
+  "scripts": {
+    "inject": "echo \"Sorry, but injection is not done! This is just a placeholder.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/Beefers/enigma.git"
+  },
+  "keywords": [
+    "discord",
+    "client",
+    "modding",
+    "themes",
+    "plugins"
+  ],
+  "author": "Beef",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/Beefers/enigma/issues"
+  },
+  "homepage": "https://gitlab.com/Beefers/enigma#readme"
+}
