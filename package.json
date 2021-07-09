@@ -1,14 +1,11 @@
 {
-  "name": "enigma",
+  "name": "harmonia",
   "version": "0.0.1",
-  "description": "Enigma is a Discord client mod that takes a new approach to modding your Discord.",
+  "description": "Harmonia is a Discord client mod that takes a new approach to modding your Discord.",
   "main": "index.js",
-  "scripts": {
-    "inject": "echo \"Sorry, but injection is not done! This is just a placeholder.\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/Beefers/enigma.git"
+    "url": "https://gitlab.com/Beefers/harmonia.git"
   },
   "keywords": [
     "discord",
@@ -20,7 +17,7 @@
   "author": "Beef",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://gitlab.com/Beefers/enigma/issues"
+    "url": "https://gitlab.com/Beefers/harmonia/issues"
   },
-  "homepage": "https://gitlab.com/Beefers/enigma#readme"
+  "homepage": "https://gitlab.com/Beefers/harmonia#readme"
 }
