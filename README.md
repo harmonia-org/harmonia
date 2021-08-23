@@ -14,6 +14,6 @@ The main quirk of Harmonia is that, by itself, it doesn't have much functionalit
 
 ## Roadmap
 
-* Injection method - In progress, using our homemade method
+* Injection method - Complete, using our homemade method
 * Library loading - No progress, yet™️
 * Plugin loading - No progress, yet™️
